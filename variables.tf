@@ -21,6 +21,6 @@ variable "private_subnet_cidr" {
 variable "public_key_name" {
   type        = string
   description = "Name of an existing AWS key pair for SSH access"
-  default     = ""
+  default     = "323230574799_NV-Aug-24"
 }
 
